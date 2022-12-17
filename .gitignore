@@ -1,0 +1,6 @@
+.venv/
+output/
+tmp/
+config.ini
+en_backup.db
+enex2notion.log
