@@ -4,7 +4,7 @@ Evernote内の**すべてのノート**をNotionのノートに変換し、Notio
 
 # 使用方法
 1. [Python 3](https://www.python.org/downloads/windows/)をインストールする。
-2. 本アプリをZIP形式でダウンロードして解凍する。
+2. [ここ](https://github.com/futonchan/evernote2notion-ui/releases/latest)から本アプリをZIP形式でダウンロードして解凍する。
 3. [ここ](https://www.notion.so/How-to-get-your-token-d7a3421b851f406380fb9ff429cd5d47)を参考にNotionのtoken_v2をコピーする。
 4. 本アプリの`evernote2notion.bat`を起動する
 5. 本アプリに移行したいEvernoteアカウントの**Emailアドレス**, **パスワード**, **2.でコピーしたNotion token_v2**を入力する
